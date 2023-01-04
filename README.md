@@ -2,13 +2,13 @@
 Desarrollo de pagina 
 ## Descripción
 
-Este es un proyecto creado con XXX Y XXX 
+Este es un proyecto creado con HTML Y CSS
 
 ## Autor-
 **Jofran Camargo**
 
-* [linkedIn](www.linkedin.com/in/jofrancamargo)
-* [Portafolio web]()
+* (www.linkedin.com/in/jofrancamargo)
+
 
 ## Proyecto
 
